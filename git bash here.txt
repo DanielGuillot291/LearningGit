@@ -1,0 +1,5 @@
+Para no tener que navegar con git bash hasta la carpeta actual para que encuentre el archivo de nuestro proyecto:
+
+1. clic derecho en la carpeta
+2. mas opciones (windows 11)
+3. clic "git bash here"
